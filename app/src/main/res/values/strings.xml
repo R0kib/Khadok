@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Khadok</string>
+    <string name="food_image">food_image</string>
 </resources>
